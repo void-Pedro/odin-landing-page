@@ -1,2 +1,10 @@
-# odin-landing-page
- Projeto de landing page criado durante o curso do The Odin Project
+# Landing Page
+
+Um site HTML feito do 0 (baseado apenas na referência) desenvolvido durante o curso da The Odin Project.
+
+Durante esse projeto apliquei:
+- Conceitos de HTML
+- CSS e Flexbox
+- Git e github
+
+[Referência](https://www.theodinproject.com/lessons/foundations-landing-page)
