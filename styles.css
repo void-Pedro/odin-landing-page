@@ -83,7 +83,7 @@ button {
 }
 .images {
     display: flex;
-    justify-content: center;
+    justify-content: center;    
     margin-bottom: 60px;
 }
 .images figcaption {
