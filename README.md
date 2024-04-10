@@ -9,5 +9,5 @@ Durante esse projeto apliquei:
 
 [Meu Projeto](https://void-pedro.github.io/odin-landing-page/)
 
-[Referência](https://www.theodinproject.com/lessons/foundations-landing-page)
+[Site da referência](https://www.theodinproject.com/lessons/foundations-landing-page)
 
