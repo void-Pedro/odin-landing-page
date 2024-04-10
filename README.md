@@ -7,6 +7,6 @@ Durante esse projeto apliquei:
 - CSS e Flexbox
 - Git e github
 
-[Meu Projeto]([https://www.theodinproject.com/lessons/foundations-landing-page](https://void-pedro.github.io/odin-landing-page/))
+[Meu Projeto]([https://www.theodinproject.com/lessons/foundations-landing-page](https://void-pedro.github.io/odin-landing-page/)
 [Referência](https://www.theodinproject.com/lessons/foundations-landing-page)
 
